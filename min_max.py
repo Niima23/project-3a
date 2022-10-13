@@ -1,3 +1,8 @@
+#Amiin Samatar
+#niima23
+#10/11/22
+#Finding the min and max values
+
 print("How many integers would you like to enter?")
 var = int(input())
 
